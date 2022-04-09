@@ -1,0 +1,64 @@
+<div class="container">
+
+
+
+
+<!--&lt;!&ndash;    watch top portion&ndash;&gt;-->
+<!--    <div class="top-container">-->
+<!--        <image src="../../common/images/dot.png" style="width: 6px; height: 6px;" alt="dot image"/>-->
+<!--        <div style="align-items: center;-->
+<!--                justify-content: center;-->
+
+<!--                ">-->
+<!--            <image src="../../common/images/partlysunny.png"  style="width: 24px; height: 13px;" alt="partly sunny "/>-->
+<!--            <text style="font-size: 9px; color: white;" >Partly Sunny</text>-->
+<!--        </div>-->
+<!--    </div>-->
+
+<!--    <div class="left-container">-->
+<!--        -->
+
+
+<!--    </div>-->
+    <div class="centre">
+        <image src="common/images/antique_midpoint.png"></image>
+    </div>
+    <div class="second">
+        <image src="common/images/seconds_needle.png"></image>
+    </div>
+    <div class="hour">
+        <image src="common/images/Hour_needle.png"></image>
+    </div>
+    <div class="minute">
+        <image src="common/images/Minutes_needle.png"></image>
+    </div>
+
+    <div class="point">
+        <image class="point_1" src="common/images/dot.png"></image>
+        <image class="point_2" src="common/images/dot.png"></image>
+        <image class="point_3" src="common/images/dot.png"></image>
+        <image class="point_4" src="common/images/dot.png"></image>
+    </div>
+
+    <div class="weather">
+        <image src="common/images/partly_sunny.png"></image>
+    </div>
+<!--    <div class="weather_des">-->
+<!--        <text>PARTLY SUNNY</text>-->
+<!--        -->
+<!--    </div>-->
+
+<!--    <div class="date">-->
+<!--        <text> 02 FEB | MON</text>-->
+<!--    </div>-->
+
+<!--    <div class="background">-->
+<!--        <image src="common/images/bg.png"></image>-->
+<!--    </div>-->
+
+    <div class="calories_img"><image src="common/images/calories_icon.png"></image></div>
+    <div class="foots"><image src="common/images/steps_icon.png"></image></div>
+
+
+</div>
+

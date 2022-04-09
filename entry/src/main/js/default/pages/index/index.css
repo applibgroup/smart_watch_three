@@ -1,0 +1,121 @@
+/*.container{*/
+/*    */
+/*    width: 278px;*/
+/*    height: 320px;*/
+/*    border: 5px solid black;*/
+/*    border-radius: 35px;*/
+/*    left: 30%;*/
+/*    top:30%;*/
+/*    background-color: black;*/
+/*}*/
+/*.top-container{*/
+/*    height:46.85px;*/
+/*    display: flex;*/
+/*    flex-direction: column;*/
+/*    width: 278px;*/
+/*!*    border: 2px solid white;*!*/
+/*    align-items: center;*/
+/*    justify-content: space-around;*/
+/*}*/
+
+.centre{
+    height: 18px;
+    width: 18px;
+    top:105px;
+    left:101px;
+}
+
+.second{
+    height: 1px;
+    width: 1px;
+    top:110px;
+    left:50px;
+    border-radius: 10px;
+}
+
+.hour{
+    height: 35px;
+    width: 40px;
+    top:119px;
+    left:94px;
+    z-index:1;
+}
+.minute{
+    height: 80px;
+    width: 15px;
+    top:26px;
+    left:48px;
+    z-index:-1;
+}
+.point {
+    height: 6px;
+    width: 6px;
+}
+.point_1{
+    position: absolute;
+/*    top: 178px;*/
+/*    left: 36px;*/
+
+    top:10px;
+    left:30px;
+}
+.point_2{
+    position: absolute;
+/*    top: 110px;*/
+/*    left: -200px;*/
+    top:105px;
+    left:125px;
+}
+.point_3{
+    position: absolute;
+/*    top:7px;*/
+/*    left:-100px;*/
+    top:200px;
+    left:30px;
+}
+.point_4{
+    position: absolute;
+/*    top:215px;*/
+/*    left:-101.5px;*/
+    top:105px;
+    left:-70px;
+}
+
+
+.weather{
+    height:15px;
+    width: 15px;
+    top:30px;
+    left:1px;
+}
+/*.weather_des{*/
+/*    width: 40px;*/
+/*    font-size: 0.5px;*/
+/*    top: 30px;*/
+/*}*/
+/*.date{*/
+/*    position: absolute;*/
+/*    font-family: poppins-regular;*/
+
+/*    font-size: 3px;*/
+/*    colour:white;*/
+/*    width:100px;*/
+/*    height:80px;*/
+/*    top:100px;*/
+/*    left:102px;*/
+/*}*/
+
+.calories_img{
+    position: absolute;
+    width:10px;
+    height:17px;
+    top:160px;
+    left:70px;
+}
+.foots{
+    position: absolute;
+    width:17px;
+    height:20px;
+    top:160px;
+    left:120px;
+}
