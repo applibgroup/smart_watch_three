@@ -69,29 +69,17 @@
     "orientation": "portrait",
     "language": "en_US",
     "colorMode": "light"
-   },
-   {
-    "id": "mywatch",
-    "deviceType": "wearable",
-    "width": 920,
-    "height": 920,
-    "shape": "circle",
-    "dpi": 158,
-    "orientation": "portrait",
-    "language": "zh_CN",
-    "colorMode": "light"
    }
   ],
   "runningProfileList": [
-   "mywatch"
+   "Watch3"
   ],
   "availableProfileList": [
-   "Watch3",
-   "MatePadPro",
-   "P40",
    "smart_watch3",
    "MateX2",
-   "TV"
+   "MatePadPro",
+   "TV",
+   "P40"
   ]
  }
 }
