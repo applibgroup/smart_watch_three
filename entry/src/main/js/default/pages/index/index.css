@@ -1,0 +1,136 @@
+.container {
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.second {
+    height: 2px;
+    width: 100px;
+    top: 103px;
+    left: 40px;
+
+}
+
+.centre {
+    height: 18px;
+    width: 18px;
+    top: 95px;
+    left: 10px;
+    right: 9px;
+
+
+}
+
+
+.hour {
+    height: 35px;
+    width: 40px;
+    top: 108px;
+    left: 5px;
+}
+
+.minute {
+    height: 80px;
+    width: 15px;
+    top: 15px;
+    left: -42px;
+}
+
+.point_2 {
+    position: absolute;
+    top: 100px;
+    left: 10px;
+    height: 6px;
+    width: 6px;
+}
+
+.point_3 {
+    position: absolute;
+    top: 100px;
+    left: 220px;
+    height: 6px;
+    width: 6px;
+}
+
+
+.child1 {
+    width: 100%;
+    justify-content: center;
+}
+
+.child2 {
+
+    width: 100%;
+
+    justify-content: center;
+}
+
+.child3 {
+    height: 166px;
+}
+
+.child4 {
+    justify-content: center;
+}
+
+.min_progress_calories {
+    width: 20px;
+    height: 25px;
+    margin-left: -10px;
+    margin-bottom: -15px;
+    stroke-width: 3px;
+}
+
+.child5 {
+
+
+    justify-content: center;
+    margin-top: 0px;
+
+
+}
+
+.point {
+    height: 6px;
+    width: 6px;
+}
+
+
+.weather {
+    height: 15px;
+    width: 15px;/*    top:30px;*/
+/*    left:1px;*/
+}
+
+.weather_des {
+    width: 40px;
+    font-size: 0.5px;
+    color: white;/*    top: 30px;*/
+}
+
+.calories_img {
+    width: 10px;
+    height: 17px;
+    top: 5px;
+    left: 5px;
+
+}
+
+.foots {
+    width: 17px;
+    height: 20px;
+    bottom: -2px;
+    left: 3px;
+
+}
+
+
+.min_progress_footSteps {
+    width: 20px;
+    height: 25px;
+    right: 15px;
+    color: orange;
+    stroke-width: 3px;
+}
